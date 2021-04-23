@@ -1,0 +1,27 @@
+html, body{
+    background-color: crimson;
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header {
+    width: 33%;
+    border: black 5px solid;
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    color: black;
+}
+
+.body{
+}
+
+.footer{
+    background-color: beige;
+    text-align: center;
+    font-size: x-small;
+    bottom: 0;
+    width: 100%;
+}
